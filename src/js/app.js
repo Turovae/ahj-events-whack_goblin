@@ -1,1 +1,3 @@
-console.log('Hello!');
+import GamePlay from './Game/GamePlay';
+
+(new GamePlay('.game-container', 4)).init();

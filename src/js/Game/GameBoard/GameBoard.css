@@ -1,0 +1,24 @@
+.board {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-column-gap: 5px;
+  grid-row-gap: 5px;
+  cursor: url(./img/hammer50.png) 16 0, pointer;
+}
+
+.board:active {
+  cursor: url(./img/hammer50whack.png) 16 0, pointer;
+}
+
+.cell {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #fff;
+  border: 2px solid #808080;
+}
+
+.cell:hover {
+  border-color: #666;
+  box-shadow: 0 0 5px #555;
+}
