@@ -9,6 +9,11 @@
 
 ---
 
+[![Whack Goblin](https://github.com/Turovae/ahj-events-whack_goblin/actions/workflows/web.yml/badge.svg)](https://github.com/Turovae/ahj-events-whack_goblin/actions/workflows/web.yml)
+[![Build status](https://ci.appveyor.com/api/projects/status/6eu8espg3sknu76m?svg=true)](https://ci.appveyor.com/project/Turovae/ahj-events-whack-goblin)
+
+---
+
 ### Игра с гоблинами
 
 ![](./pic/GracefulMiniatureBustard-small.gif)
